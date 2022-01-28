@@ -1,4 +1,4 @@
-# kadai
+# モバイルプログラミング2021の課題です。
 
 A new Flutter project.
 
